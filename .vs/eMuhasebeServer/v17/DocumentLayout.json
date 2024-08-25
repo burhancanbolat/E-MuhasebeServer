@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burha\\source\\repos\\E-MuhasebeServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F8822-71A5-4683-B27E-646D2D5CD4BE}|eMuhasebeServer.WebAPI\\eMuhasebeServer.WebAPI.csproj|c:\\users\\burha\\source\\repos\\e-muhasebeserver\\emuhasebeserver.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B05F8822-71A5-4683-B27E-646D2D5CD4BE}|eMuhasebeServer.WebAPI\\eMuhasebeServer.WebAPI.csproj|solutionrelative:emuhasebeserver.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF443AB6-B281-4C59-BAC8-D79EFDD947E6}|eMuhasebeServer.Infrastructure\\eMuhasebeServer.Infrastructure.csproj|c:\\users\\burha\\source\\repos\\e-muhasebeserver\\emuhasebeserver.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF443AB6-B281-4C59-BAC8-D79EFDD947E6}|eMuhasebeServer.Infrastructure\\eMuhasebeServer.Infrastructure.csproj|solutionrelative:emuhasebeserver.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\burha\\source\\repos\\E-MuhasebeServer\\eMuhasebeServer.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "eMuhasebeServer.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\burha\\source\\repos\\E-MuhasebeServer\\eMuhasebeServer.WebAPI\\appsettings.json",
+              "RelativeToolTip": "eMuhasebeServer.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T14:29:47.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\burha\\source\\repos\\E-MuhasebeServer\\eMuhasebeServer.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "eMuhasebeServer.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\burha\\source\\repos\\E-MuhasebeServer\\eMuhasebeServer.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "eMuhasebeServer.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIAwwCIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T14:30:03.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
